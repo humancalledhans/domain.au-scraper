@@ -1,0 +1,38 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "nb3wf177qh8w9y"
+Server-Timing: getAuthToken; dur=0.070182; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.703658; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.9762529999999998; desc="FETCH: Suppression API"
+Server-Timing: listingsApiClient; dur=10.941915999999999; desc="FETCH: Listing API"
+Server-Timing: similarListingApiClient; dur=18.129597999999998; desc="FETCH: Similar Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.25144099999999997; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=9.524721999999999; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=9.468402; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=9.439311; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=9.414123; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=9.396721999999999; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=13.797289999999998; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=13.867828999999999; desc="FETCH: Street API"
+Server-Timing: SearchNonCritical-listing; dur=14.569904999999999; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=15.095162; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=33.617497; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.049727999999999994; desc="Fetching location profile data"
+Server-Timing: total; dur=125.04584899999999; desc="Total Response Time"
+X-Akamai-Transformed: 9 62163 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:20:48 GMT
+Date: Sat, 03 Dec 2022 08:20:48 GMT
+Set-Cookie: DEVICE_SESSIONID=29fc031b-09a3-48d4-9505-9ff3b5d5bc7c; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:34:55 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:20:48 GMT; path=/
+Set-Cookie: _abck=907018C46F6713667CD38BBF6FD961C4~-1~YAAQPAvorO+Lkc+EAQAA+90S1whscVkGQSZYWl6M4qEDMvF1yCF7uJVFGI8Zntr6XcyhT18FyNySw2hJXuX1aOoENTTn413FnYOi9hjEdnnpVEEQG/RHwdZpo7YwFDQbVZIwFh/uShIKi9M36o66vsPOAVFaioh75ax5hncpegp8Uyb/6tXSp0f3OuX2F6xKaDsZiDy4T3GSaC4p//myooyLYzEshXtK4YHFSnHSI/fS5Nt3zfqfRBLI5NK+1Sl0z/lXjJ+OLGQDGZa34gw/q8jURwEni3ViHM1zdCDC/oNV1fkYzq9F7L0DuXzEY7Pxbk58nGiII1HiEeRhd4oTX21Z1QPZ+EL+oqqA+gQG22CisTJtdHAYG/hAOtUp0ac=~-1~-1~1670059138; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:20:48 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=E1699C6286B9488A1CEB65C64EE89C5D~000000000000000000000000000000~YAAQPAvorPCLkc+EAQAA+90S1xF3tg4eCeErOKAdhHHUxXxiiJ3zGCqMK0PI1Hr4Cgnrr1arcB/QKgvE+YRFDTTKLXMZP0uKJXrMjEJX/cQ1LFEZhoQMAb5HvjSNidMc/A+en7RurIpDCDwBKQ21d80uGIVeB2Dd+GBWH6afP8XJrbmnTYrZOPkP2TRGuUTrJcfooxxkxv6TKlhysB7Ner/qMf2ExjhMYmR08uOJrFXKEIfMJqNB3CZ252D4/bYTPpiqNHrkDE3n75rB5Ms6VOLUxIOp+Q//nSYl5e7y3u6zenaPmjn5SRTp2QlOnk0y22tkdP9oDdHNii3a7M3VJjgh/NfxDyERx+Vv5AIqu3C6wVPTo91wJkl0nOfew08=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:20:48 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=0A17E8B8C75D750BA028917297363FB3~YAAQPAvorPGLkc+EAQAA+90S1xGCA4kuoNki/DkK/HEb7EMVb6IEP4INagbLATL+Hfg1UBO93M71wqN22+98U6wK2K611rQIgFoTysguK0uGEYFMYq82m8e09m/k/fBDG1PCGTRWe1oRwIkJ+zNlYwXceFjc0ai0MV43A5tapE38ShWihaZKpcW+iAebn4XsM/6uZe6DqOmSZFGA0ljCFCtgSEZoK/y8mjhijhuQM34ZcNCTPT7k8vwsICxdLHkPFM5g1sUVIq0Ce8drNwlJtsw+U8fmDOa/xZjqgCnQkX5qWbIEspCa6T6Wj9+YH7jxU8L1RoW9Z8T3GeG5IGt0dGw/5h3Zop4x5eUxTA7L96IjnNCoLZlzZTlz1MDtgNttAZOI~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:20:48 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=1BB07E971457B36E2B0DD65F5E58EB07~YAAQPAvorPKLkc+EAQAA+90S1xEIriqQIWBk0klavSfnqfdRvcuAMWUtYAKhLEeIg0sYe8mDXUfLw/vmOgJ6b1hz625lhQ32vuKsREBKGJhCiG0ttX0ylBm3KCSASvTPCDGWlHuBmKSIHN+OSWChvJ8W488yA+Im/iSXj7UuT0GrwuniZmjo20rxosyahcvflZ6cFOqj5aaTCr7UV70sUgY1V2IWvbOZd0hyrswL/60o3QveX72qySflBll+pa83oEFutszMT2zIn+rmehwiHw/0rPCe5Ct9pGWvyhwtU9PifDE/B4A=~3617849~4470598; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:20:48 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

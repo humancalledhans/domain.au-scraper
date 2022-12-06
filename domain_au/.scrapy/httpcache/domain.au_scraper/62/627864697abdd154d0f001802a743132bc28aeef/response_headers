@@ -1,0 +1,29 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "ths2g6gmjeaawj"
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Server-Timing: getFeatureFlags; dur=83.098591; desc="Fetching feature flags"
+Server-Timing: getAuthToken; dur=0.275706; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=30.046281999999998; desc="Fetching feature flags"
+Server-Timing: parseSearchUrl; dur=26.99765; desc="Parsing the search URL"
+Server-Timing: dataCardClient; dur=4.553925; desc="Data Card Client"
+Server-Timing: featuredAgencyClient; dur=22.503107; desc="Featured Agency Client"
+Server-Timing: featuredPropertiesClient; dur=25.706502; desc="Featured Properties Client"
+Server-Timing: searchClient; dur=42.233492999999996; desc="Search Client"
+Server-Timing: transformingProps; dur=14.910712; desc="Transforming props"
+Server-Timing: total; dur=401.076799; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Date: Sat, 03 Dec 2022 08:38:57 GMT
+Set-Cookie: DEVICE_SESSIONID=e65a3db9-5048-4adc-8601-c0fd4b729e68; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:53:03 GMT
+Set-Cookie: searchSOI=nsw; Path=/; Expires=Sat, 10 Dec 2022 08:38:56 GMT; Secure
+Set-Cookie: _abck=3C3F2183F5CCA83423F939E8DB6B7AC9~-1~YAAQhUA2F3UPbLKEAQAA5nkj1wg72goY5oZar40LmsuSA9vs1nDtkYyWE02FCDNjQzIe+GjOUZWjmmXUA9HzvsdjtFgNEjHcuk8KPo2bPQR+sYKn4Vp5Q+eBrt0OQMFukG0t4JDySY668I2Z+rNObVACfthb5JLV3IdQeNAGjghxWWDWa47n4I9LCuwa2vMKquZWc5QKuzNT2eEQ0MU9I+Luj8fWIDXixe81eTSlVKsfy081j+1NwaoPP+UCpwtq2i56eMvi/za2NwNkEIg0vpE6hPBJJwyVtn47gqTo7+IScL4tAF7GEVOi3Uk54AJcpsACVBT0q4+qEK00JEVBitFJG5LDLC6OLiCEM/suQ5ro+zURK09ThlQ0lrGIYbQ=~-1~-1~1670060289; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:38:57 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=DB0C6A9B49A2D5E249AA341A3C187B13~000000000000000000000000000000~YAAQhUA2F3YPbLKEAQAA5nkj1xHXx4x0F/Ku45IOmGm/S8R2MJBzD6mJ/R0hNmj5lu9P75MNz8fElThJpdYJxbR3lPhtzyQWNYIKV3iOqmCns2tYdOEIbSAzCsQbEen1fDXBc1taXJjfv4Y30f1XOQNHxzIFHMpr1+aimgD9DPmpRmgwRtF0QYDkLa0kzzKMlFvldSHMEYHRtX2h9XlmaAUC32673RiuRBh2FesgSNTTPGv0+f7rqaCtNnpgWnMnP0XUjOWHGjefXraJayekf8Br+xT7vtzbWzNJCv1GiyVSBo/xBpp3TEXRTk5TIvD7Y+byfUeKN64+zes3KnJmDicPhbzGg0gdfGIhuiqJCR6bhItOsRbxGEP+a7EW; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:38:56 GMT; Max-Age=7199; HttpOnly
+Set-Cookie: bm_mi=76482418C22AA7CA3777567C685AFCFF~YAAQhUA2F3cPbLKEAQAA5nkj1xHmWLVJjhnSUdHYX6SYcLd9TO2dH72htViMMHfL1YnDtwATFYqV6I8VwhgF1uje0P5H+ewEjfi+01W0UuXJfDIbE7ebCtsbz+zEXZ2MX5Km5WqDrhx/X+pbXYDT7Wi2Obl7gy7VQoV3u8Cpe0EIUtSruR6fjfMTbja8oOdcNGsN+LpT3BMhVSEU5jSUbgLftn6s4V8qfbofmvO82X2NTiRhpB1Xo33YzYtTeLgtKWkFTtLS81N95w7CxeE8BDw0XqAVSRjBHz+qLY8+fxkjHhIFDzhQ9dmHyViVVT3ybkmW3UDnq2kI6QohqP3C4m/CHChrcdcJ~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:38:57 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=0FA8820389C75C4DAEF7FD0AC3F5D941~YAAQhUA2F3gPbLKEAQAA5nkj1xH+qJLn+h1CSIF4kjg89NaS1XFI/KFUubdxVTh/YrDZmVFqc+4+YYbRO07FfDjAtlxstsHSZzxO1ZvU4DClM1e9kwv2d65xJneOtg5JRbqFVXHKo6fpDrCUtIyBGRxjsnCzvFZJNf6TLarFc11MWyFP42HjDAEFY406QrOhP04mt/QpIlDBH/yNfeDYcSuNvDeEGTrplyuoZntrMAKZmkw6kSD8LQ4TCi5gPSshjQ/myw0ekTR0JFC65VyGF7OXW/jalZK2+7YM/DOSkCroYW5DtdI=~3687987~3618613; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:38:56 GMT; Max-Age=14399
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

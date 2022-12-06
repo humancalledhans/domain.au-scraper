@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "8mwal8jtja8ofj"
+Server-Timing: getAuthToken; dur=0.047547; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=4.486924; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=14.588731999999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=14.576483999999999; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=42.321129; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.198727; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=14.200049; desc="FETCH: School API nearbyExtended"
+Server-Timing: sa1ApiClient; dur=15.076763999999999; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=16.765449; desc="FETCH: Agency API"
+Server-Timing: listingsNonCritical; dur=18.389589; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=18.369504; desc="FETCH: Additional data"
+Server-Timing: agencyApiClient-list; dur=32.830217999999995; desc="FETCH: Agent List API"
+Server-Timing: listingAggregatorTime; dur=75.369236; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.042099; desc="Fetching location profile data"
+Server-Timing: total; dur=187.47279799999998; desc="Total Response Time"
+X-Akamai-Transformed: 9 60295 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:31:56 GMT
+Date: Sat, 03 Dec 2022 08:31:56 GMT
+Set-Cookie: DEVICE_SESSIONID=35cec4c6-9709-4761-9f50-a35ee186c74f; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:46:03 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:31:56 GMT; path=/
+Set-Cookie: _abck=54C84AF7E8E3C16890515206D4B6EFB7~-1~YAAQPAvorJZEks+EAQAAIBAd1wiZJzhdaDCm/P9UeTmL4x7LRCZOWyFdHyEPBBeRVKdoHaG9vEbqwB16xim4L2pmDabwGvtjudu+SIHSVALib7nu03fvOms6mYcBLPCMDXrwr7kc9zoxCrMJDiYDKSbXlklB+KI0b7Do4f+/HNJreyHi79m83H4YYIi1kWmD1N+Wp3FOSP7JpfbfZloWHbPbTXhDvzlJvH2+KiBVoAOwFUUVibsRLdXQEEUtL0NY6LchOYy7UiXb74hDuB4o2ojk3aA/GwvdgHbArh6CFUiVpRwRNyF+vc8DvrYFx7N0Wremu14h+PVj7MVT+wTCrUOzNeLOVoRIrD/XTmHBhsJZrL7ek3LW12bBfeuzxEk=~-1~-1~1670059808; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:31:56 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=EC310E137C3E85F94EFC9523A7091991~000000000000000000000000000000~YAAQPAvorJdEks+EAQAAIBAd1xFDe8SAUks0OZSokLIzl6SM1vy5uhyLbnczD6Qnn9Pnp7mJI1CYNCOj1fyveEl9nOkd4tFz7XuSUE1bw+UVv5FImHmVbkSHsFAJt1VOM7zFkjnF1BUr0cC0/IpxfRMTXuV0TJDx7T3tOxxl4TJC9GdqpzkjvR+S0HKrfeDuRtkzWJsunMcKSa3I+0GaxN91CNK852YkfdIFrwFjrFo0wBVXwPfWgzdgjNggTMU8FGBnzHA1TxPduSMz/iafFZrep44YoVzKO4wrFAj4/eyQH0C6wYyOjQRt74z+6QT1JHqqV1OBEo0u2VkN6tugpvfsKfEMEvNk5OHaFCtzd24nTf2NAVgn3rjMpAt/03A=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:31:56 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=97A684B70B3A315C9631D18507DFCF13~YAAQPAvorJhEks+EAQAAIBAd1xHva2O0KPa+HyZroCC3iQz9j5dJjSMzLSA+yYisa+22LE8eACQjlqHdEANA/BV286Wf6NohGY/Z/R+x2LOKgrllvqZXrldNnlodiRlc92Ti+UIIwAsBl1t1OFegzBrQIvuJ+62MWFYT0sxOTIQOaJ0ysG3fNt5OefN+mRZqp5dHX40OWa1Bio5h3yJXP5pparVCjMocXKRDiNGGrxl8iXgeGBvPsuHKiiiX8kL15Fp0eSX7aWYBWL/DiMeLjEnailk3uM8N+iVaReRXkezVhtdCyxNAWIm5Spwe8nLwPt2VkAOyKoboPfpIV3C7VwAF2QzeO1xlK5vVopv7hiU/i3ghsqktjEo=~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:31:56 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=B62712A13C8EBD41F277D913C74575AA~YAAQPAvorJlEks+EAQAAIBAd1xHSWx6Zp1T8dQu16eOckEp6kKxYxgDEUojBgaGEWQlpeF7/xQvpvd1sHKJplrx81/8OYKL2cKm9vvKw8vVxqpM99abVJf1FUOQy0Cea29IEfp8JlTDtkaWn7z83lq3ZebesM778jiM8kP1RZWytc3Agf9ClhHcgUqw4L1LQnDwuOSy9CQSZxpqoo6nfVe6OMdoIe4WyGXEMjgZpNvtgHUmu0AOq5dJDHLae5OXUbbmArF/Vmh06Xb17L3GSt85Vjj7y20P4a3iPUELY+/epJftfT9g=~3159603~4536374; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:31:56 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "12f5db1qfd88d4n"
+Server-Timing: getAuthToken; dur=0.056993999999999996; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=4.617712; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.9670059999999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=1.9528489999999998; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=12.122957; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.210918; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=10.978506999999999; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=10.930529; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=10.907491; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=10.865381; desc="FETCH: Agency API"
+Server-Timing: listingsNonCritical; dur=11.882157; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=12.560683; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=24.972948; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=19.590231; desc="Fetching location profile data"
+Server-Timing: total; dur=138.674071; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:31:52 GMT
+Date: Sat, 03 Dec 2022 08:31:52 GMT
+Set-Cookie: DEVICE_SESSIONID=dd53c8e1-5471-4640-9a0e-c51bbdbdd88e; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:45:58 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:31:52 GMT; path=/
+Set-Cookie: _abck=B84F09E7CA8B733993D36E10790AF7D7~-1~YAAQPAvorAhDks+EAQAAOv0c1whT7Q745pYGV7/LDXSGypYVJZxmPJQdynbD1Ei78keHCvG3nY7leDQeJufgUbgkOdv7m13J8FUV7qLI86DH+U/3TBkMB7mo2DxjI/cCCsnWOYC68RtM/RlaDIQsXDm3M6mvtpAJPEYe0QCLIosU5J1J9d91xPR818aZ7pooMI1yqVPOihlIlReG3IHs8atJdIIwwPLnHPVM3tS9DxfFaQuMcR1SpyLF/IqTUrbqCnFhPjoGZQ/EKreDUkp/4J82kYbHWb4dIBcJME4zO1f38wyvlpJz8c8p0f/UsdutJehTwmiy7PM+v0ixEl97QAnZ9Ih9f3BYmkLO6bcN9meskQP45XPdFU5eGXs+bzo=~-1~-1~1670059892; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:31:52 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=682FCDB324C34B8DF1C57FC8A3682255~000000000000000000000000000000~YAAQPAvorAlDks+EAQAAOv0c1xHaVv3KQ8X6h7GKhhpmijQw8eXHb7mMEuZcUzctbRlPduBZgj+wKCqsSJ5g47FlvhGUp6DL8BhNu/SJPysbqdZicHx/TJlVF+MWP9WoyBdlSFJw5F7EOHlt1f9pOB4hMQ/NU+y4dBblu/NL7U8kZgJRhfIGvXU5xy7jCnL67syMe3Aw1fGfdRcTYekPFevOAA5UGpjaVSK1v1pmqZxsla4C77syCxrzF89dbmL5iTgCxtEsMhEvwYMvMcuHZaC3pwW54E0csh2On4GIWo5Ehf6Hvwccic28KS8exCElM1W3fD/Wn8sZOqIIq7rArqjcpkihUWe+MFE7ihiHdM2Dx1+lE6K2oEt9sL+aYrA=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:31:51 GMT; Max-Age=7199; HttpOnly
+Set-Cookie: bm_mi=8D9D24A75C0E9DFD4450DA79D82C22C2~YAAQPAvorApDks+EAQAAOv0c1xHvkdYJ7eG5ZrAOTp+zrdxOzlyRa3FA8jJvyYP53aGNda7Kbl1opesPtwkmhUrlww4ZkZeyBwnPhU/cxNXjltp/sHv/oSeIfe8DCvRi6chkIi7dEca8yWR2EbEaSuJqxZoOxPjoSM92hqoG9Hryv49CVfSV79nLIZyWTOafSXmXDzHWLUV74cH6px6Ws1F9rbDGZhyROGWV0TGkp/bPoHFZ8thSNHK6gsIosz8MvatQBMKIvBzS9+aNiS/P7/AF+iMrcNhSCCPtKYS4n5qT7bBv222E6sJCoVhJPfd+9Mt8CFAjRMvCCdK1iJ3NF/CTPI3dI9SCIVIuPsT87zjKDeE=~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:31:52 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=64AB26A0DFA68D33F40CA0BE38E5B205~YAAQPAvorAtDks+EAQAAOv0c1xESJvkGi57gnfuf9xwf4YkozXp3AtmpSJe/WjiktVq67lRlUD3SUEaffRwQY+eGMPNoXSXK3UK6CQFavnO30hwHq+B4pm45Jx9iiAkhNYFxmhOErGXMFXyqNzVFoLjTv7VH1RIVtW6rIaemQACJ+aDF9cNSyem4Xa042YQQ0RYuoYEam5uQmtmDfm4fMfNvUDRCpms1PuxB+6XKFfJezoA5SRbRNSIuiFtygu2ELIUEvjIybJyjGPYk4zXhzGh8eemXk89K2IZBNqe2CL6Qe3pObTE=~4469060~3224370; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:31:51 GMT; Max-Age=14399
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

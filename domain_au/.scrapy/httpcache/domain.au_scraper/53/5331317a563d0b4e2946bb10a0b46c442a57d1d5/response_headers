@@ -1,0 +1,34 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "qllz3pekv68mek"
+Server-Timing: getAuthToken; dur=0.061049; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.1010649999999997; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=3.0206679999999997; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=3.004257; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=13.645707; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.21803699999999998; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=14.356238; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=14.295332; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=14.271778; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=14.231067999999999; desc="FETCH: Agency API"
+Server-Timing: SearchNonCritical-listing; dur=15.263819999999999; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=15.978504; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=29.899808999999998; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.049493999999999996; desc="Fetching location profile data"
+Server-Timing: total; dur=141.854008; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:41:20 GMT
+Date: Sat, 03 Dec 2022 08:41:20 GMT
+Set-Cookie: DEVICE_SESSIONID=798bb029-e1a7-4f8d-8c8e-91f068e7be26; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:55:26 GMT
+Set-Cookie: _abck=F4B244417986142CA19879B56D8F7295~-1~YAAQhUA2FzsTbLKEAQAAmacl1wiHEAMPKbsR3PEuUK9Q+VMJd+4YPV2bxOH3GTZkbPZmfAd33rBd7oNu45KaxjE2GjcCRzNv32w/PZCjqEdIdSVjrEEDRgiL3Ye+gnuu+gA6nj8lG66uVA/oNI+p3OkJmMn4lzq7hk3YQr+59p/qmb+GxVNAAcLzyJ2VlRGCY9lk9dDiaZ43Fczzhlp6Or0i97v5+ZD7BIL41+AyHQTOl2ou9l+whrbwUaKsVsgLHBbbPv8Lwteq0t6/FzSva6w5/EjzdzIFKvl0bSx4DWf+b7L4ByhQyAQyRoUJeNVLwm+FFHTgN7/UwIoSvxN+WyVw7bDPiRuL9umSAzqiEy0k6ojhDn3pgzWMLc3VJpE=~-1~-1~1670060388; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:41:20 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=394A7A29EBD25413F398C01003BBA9BB~000000000000000000000000000000~YAAQhUA2FzwTbLKEAQAAmacl1xEVVviV5J6IEElf9XpNDD0muznnru3zomnewmsK0dZ376C9zQdPaY0x1kcxuED+DdnkTzGC8C2Q8gKcuLJxlXnv8LouGXupmsI7OOZA4lGxLdKkjFClyXSE/+aTL8OLe4b3HgNwwu0LHCBMV69Xx6H6rqmKx3L9bZ8kJ/vZGSEc6p43Y3lTsEf8i+NpBKvHrR0tqcJ+ouyAV/jxbVE7KTYk2VNWrpg5fJghXTfwC8jSIiV0Ew3jrO3PEpAHjtrt6jGTJ3DLr33H6uq9jS9JaUKBhYR/yiTjuFYy2XEKzE9lw3q+EQQ+yYTjUs1VP6iviGQBOdUYxx/xFfq5wpI7lbIK/DmNHkmk7BEs; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:41:19 GMT; Max-Age=7199; HttpOnly
+Set-Cookie: bm_mi=235FA5B2304718B9A98092108A1550E3~YAAQhUA2Fz0TbLKEAQAAmacl1xEe+bwqSDJmAfBqWvl+aO6lPrRC+a/XkzWWVaeo4fGWBbCI+rm2R60R/J/S29+syrMNljPYtU4dQBQAu0dqDLl+AZzQGZn8zdbTrBpmqHjIIyuzwqfvqfNGa2WurN0lUB4mh0gZKz1v5hklHDkyoluX6msgY4j68e+zF5SY46wgXHmeqGd44U0y9pKGsalvJmv4qNhmtBRrP2iLDe6wUmKjEAIatBnUaxrTRd39yh2eTwwJt/VEDDCKY5JJ8Uhx07zjMb3evuls1b0NeS4vGceFhCC5BhJqu1Dq9W9mqtJ6c10H0Jqey+6Dy3UGWWZkGZJGAj483LO74n10zS0Fap3iITRJAKXn+DVTiBhiD0T+eZobkUM7NgU=~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:41:20 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=99EE2898346B6F052892A6D15A4D3F08~YAAQhUA2Fz4TbLKEAQAAmacl1xFMEj8CmF6qGGfzo4qdbAtu6evdPwv4A8d++xG+gtFthCkY6CBLGL0cauydAHTuh3+6kSj6oQUa5++P4KIlenqk8JiAiYmc4+LJiVkkqQGiAAgUbWZ5HEgBy5s1WBwNBgCF9Z13NgU3YkXVfE06ePlfiZ4VNQ+1KW/UGpoVGQtTzxrOUW+hDoB/2q6DwD66phWWhIWaMITT+O/2fOuxEojkR9x+clPDLlebB/LKxILeQzoNyzZFFCHSSLHNXi9qRjjCzlwvJcIiy5VHEW5aCOz4yIw=~4536134~3748404; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:41:19 GMT; Max-Age=14399
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

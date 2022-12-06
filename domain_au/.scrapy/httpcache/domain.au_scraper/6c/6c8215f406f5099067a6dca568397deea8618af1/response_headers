@@ -1,0 +1,32 @@
+Content-Length: 78
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/39-hughes-avenue-ermington-nsw-2115
+Server-Timing: getAuthToken; dur=0.05624; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=4.688733; desc="Fetching feature flags"
+Server-Timing: listingsApiClient; dur=3.153907; desc="FETCH: Listing API"
+Server-Timing: listingSuppressionApiClient; dur=3.1283849999999997; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=3.116726; desc="FETCH: Similar Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.9907969999999999; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=18.18359; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=18.141726; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=18.103769; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=18.071679; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=18.050933; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=19.560215; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=19.532014999999998; desc="FETCH: Street API"
+Server-Timing: additionalDataClient; dur=19.493592; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=23.102038999999998; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.051470999999999996; desc="Fetching location profile data"
+Server-Timing: total; dur=34.832198; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:45:09 GMT
+Date: Sat, 03 Dec 2022 08:45:09 GMT
+Set-Cookie: DEVICE_SESSIONID=85f75338-4c09-42da-a5e6-695285b8f59d; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:59:16 GMT
+Set-Cookie: _abck=8FC2D3D3143AD01B943F0793C410FC88~-1~YAAQhUA2F7MZbLKEAQAAwCgp1wiDHT3n3sUdokjWkAt8anzWqa2XzTZ4HeWY3Q+3VfpvnGAUcBacMu8G1VM26rxWgyJuxJmNEC9bYsKid+e/9wragaLghg1LW6Qg9+6d6lkxgBrg4q5SV3kmJAp3b/hIAxgchVUXITh0ogCn5Ny3zIQ66EVwegIvp6MsjTjM3tyldL4wf9lfbPQQZNBLJuc3M5df3KtwhNyg10TXtw3OLUY8PJyJ218sCaF18+B1UaOwdHSi7d/XKKYsfU4P0nWOCw8PmqNnYl6fuAeWD34h3jMmz2xvEKgzbzo7s+qIlNPPvDULQiuZ1pJXbwjdnliMndwhPX8Zj2GA5lzzQiGbLLe4x0lmemjfReCQjKk=~-1~-1~1670060677; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:45:09 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=B19D1AF6C59620E78121F82C5A2DAA19~YAAQhUA2F7QZbLKEAQAAwCgp1xEVwvL/CeMlLJIy6JyUqwfEYP7agJGCFssZyNUrGjbHdIhmgcejhtTTZ4R9BMwo1s8iCr1TWARn8v4BKppdP06TTi7GMCgQwXxuSphC+PwtNrFi0p4RfG0qWGzjQ4tyg4hjdDZctp34Gu/avKkTKjZ+GyFBMhpB5LiucBfsVqwmT6++puzijQ9fC0q+L7balSPIvEu6A99K47y3+43sdHV7fqw3xM+a6pR3P8WcACJwhearp3Df1oMxZwJ6ncibKl93mK+ZtTuINX4nCbSZhmD1HNE=~3749170~3486018; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:45:09 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

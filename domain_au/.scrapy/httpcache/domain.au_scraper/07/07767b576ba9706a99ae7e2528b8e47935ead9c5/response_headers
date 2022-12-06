@@ -1,0 +1,33 @@
+Content-Length: 80
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/46-corinda-grove-west-moonah-tas-7009
+Server-Timing: getAuthToken; dur=0.090514; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=14.713336; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=17.426947; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=17.412655; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=38.778507999999995; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.690016; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=32.039978999999995; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=31.977621; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=31.934130999999997; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=31.895394999999997; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=31.68124; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=35.371409; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=35.335882999999995; desc="FETCH: Street API"
+Server-Timing: listingsNonCritical; dur=48.531152999999996; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=50.522929999999995; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=90.01763; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=76.233852; desc="Fetching location profile data"
+Server-Timing: total; dur=191.072106; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 04:02:01 GMT
+Date: Sat, 03 Dec 2022 04:02:01 GMT
+Set-Cookie: DEVICE_SESSIONID=81d95c24-03ed-410a-8b36-cd2b95e39fa2; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 07:16:08 GMT
+Set-Cookie: _abck=639D1093766A453216681B5EDC2511EF~-1~YAAQk0A2F0VHvrKEAQAAUfAl1giQuF2ApBYEcMeG4tFfu6a4KExr7Ej74WAfVJ3EvK8qGYkDyTPNJ7G95fOCSUUPqKeKiIgSScSohdiTQY64oP1sIp0SZkoCTTopKf1qZseyrpxGaLo+hS6IRdKj4/1F0DFuSkqw9PzmIe7nckbxkg+JyZOq252wMyOIxX02QC38Nz5QEvw82BvhXjsZR0l0W25KFux1eEPRaXS8D92MItDdcxbZ0N97TzwOKTMfACdEq6R5Ybr+Jw6J2Dz/SbVX81Bex4WmW4/+q429z6bFZc9UTq/fT9he9iNnrjpc8mJz2MVABaY8sEnLbORoyJtTn8yOq2uegVwYTbuObqFFNf2tEmcKS7T964NNDZc=~-1~-1~1670043714; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 04:02:01 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=37E89E4C204D6C6D6F7862B20048C649~YAAQk0A2F0ZHvrKEAQAAUfAl1hGEHR/g7dzAEqspz3GDYn460hg771XsGmZODZdIzeZRhjw+DLOEi+cHN3zVqVwnyDYiFB/xt796+vQ+67BNaJPiIM8VNVF1guEV8Gu34180KMI+U00F3CYRP5lBOMWRgB3cSBh+pThUuPVA60n3LKy/OVGMC6KzAGETHD8ThkYFMlTT+SSKEBRB6y0zvGuZzug6ll9ML+TwfeJU5CheOQucpi7ak2jrV3kNMh9eGCJ456F+vSz2jgtto9GX60J078MVBXWMHm1Kqn6rt2a9K7G4Zmw=~4404034~3617072; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:02:00 GMT; Max-Age=14399
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

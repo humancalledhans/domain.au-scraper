@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "ho55rh546c8tlg"
+Server-Timing: getAuthToken; dur=0.058175; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.238063; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.6227509999999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=1.612372; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=12.073526; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.196653; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=10.167957999999999; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=10.111542; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=10.090944; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=10.061252; desc="FETCH: Agency API"
+Server-Timing: listingsNonCritical; dur=10.941379999999999; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=10.918781; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=23.272468; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.039005; desc="Fetching location profile data"
+Server-Timing: total; dur=127.24820799999999; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:28:27 GMT
+Date: Sat, 03 Dec 2022 08:28:27 GMT
+Set-Cookie: DEVICE_SESSIONID=84ecbe25-092a-40c9-a96d-d587a456bd99; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:42:33 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:28:27 GMT; path=/
+Set-Cookie: _abck=49DB5C1ADA4E2D6337F360D36095D001~-1~YAAQPAvorMnwkc+EAQAAYdwZ1wh8RJT7OJ8pNo8b5H0zog0ySzlBw14weOo57p/ZY5X8+Z40I6cH4/fooPxorQ//xMI1ISd2VB1ILpJklm42cIg20jd3SnfKH2NfnrmTlkA+Bf87IPiA3oslwLvSv3RnGMu7y+3L1tQ1KIWwAuW49Lkcl0EXeof5Oa/kB+F92/GSbccMZr+nnMf8pb5EDhNenEA7+6imTM4KZ/Sux/EMkRlQLCfNZNGATDomrmUtdWbPT11gFMwuMEVJgF4vPJebJJTF3zRPBm3ZmiG1m0HXoUCon5VjeSX707HK6tL/IT60VNVNIQ+AZ5k6h2HRTa88JjzBWY0j9gGKhYNAIWHhaM3ngAIkYPU4oqChpiY=~-1~-1~1670059612; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:28:27 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=436F15E572B8A74DC0C2310695ECCC92~000000000000000000000000000000~YAAQPAvorMrwkc+EAQAAYdwZ1xEcKsz0b2yFjJAZGKVnEm+ITqcZ3SfJCC2qTFSZV+uQhgahqToi6+QyJR3C7qlJHzP/zXOo3uo1fVJTynFBc2Yr4Sjzs2DmSBGjQ42ElZdDyIDgBK5mOB0KFyWlzJyS+GRT9hrVXN49nulqRhEgl3sFv5sIg52pXv4USw5KpUJsk+7RNMgD1byStVoVTCB9okemW5eNxccrbYTiLkDwzTDo6ZIatt9L3ZPikJBhsQyYJNoMOwZI8Rs2hnYgpROeUjN4FrOXfj0b8QFoz8doftt7+QCn+0xxFUgt6XXiIpAb27kKGlGkypzDPpn4mgRWz46v4XNAAMJRq0Y+vHmfrITq49a7pkPjBUDor/Y=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:28:26 GMT; Max-Age=7199; HttpOnly
+Set-Cookie: bm_mi=75A894B9406D7062042FE0096E182BCF~YAAQPAvorMvwkc+EAQAAYdwZ1xHJXr8+LgP4g1fKykkV39goNYlO1snDu5dO6rYu+jCF/nLpmErIePifatdkUcx5NmqI0iw+uOaZQoizWkWuiiewAxfgmNqcoQkRaGxbUDm7UwS2OWF4RaXwjMfieUixQeCt4T7CzmwQ+2cC6Y/ia5OMUHaAQUUVfdy7EjByHMxZB2Ms26k5pz8pEmmEblHfka8cIUMnW2Hqc21ZAEqFo93l+12Zs3yFJ8HywA/txMoUkfW2EqFnIQHOp5i5EVN+8IXDJs9CmUpjSc0Ws2/ZhcJiC6iumCDIeiA9pW3ZoCAogd1SPqk7OM/Eim6RqGgz3Ve/iJXXm5UVgyBh7U+1d2NX+/DzzZmKKNif1QRZKAM30WqW3A==~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:28:27 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=B9DD8779673DAFB77A36BF73A107C845~YAAQPAvorMzwkc+EAQAAYdwZ1xG09b1VCD97Uh9NQgEypC3g6iTCGHoQ3SGYOzBzouaA9avmzO5RVWYZj8yH0rdM5IvaZO7YWqvnIq5A3qzXOPunLWpWcthTjLbMaW3tvIRVQwKMRbDDU6cu8IgcJrhtX+a8FSBSCUWzgMweGFXMWTjZ7IQIY7VnQeONomQDSFl4TKpVcubgMAEug/uk1kvzlU6G5+FIx1egyt2ZpxsV4uwFuTbLv/G75vRA5GX2D4phk0O/yORbkl9oq8A+VUucAZUTQiawmEXRP4ogQkB0nGs4fIA=~3490104~3359557; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:28:26 GMT; Max-Age=14399
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

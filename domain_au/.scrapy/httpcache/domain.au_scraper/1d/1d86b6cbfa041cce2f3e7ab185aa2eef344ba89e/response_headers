@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "13hu05yk9n38rw4"
+Server-Timing: getAuthToken; dur=0.059253999999999994; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.480194; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=2.159563; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=2.145839; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=13.354427; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.21226199999999998; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=9.227568; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=9.1754; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=9.148003; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=10.716793; desc="FETCH: Agency API"
+Server-Timing: listingsNonCritical; dur=10.764647; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=11.635135; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=25.276678; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.058809999999999994; desc="Fetching location profile data"
+Server-Timing: total; dur=134.975374; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:26:12 GMT
+Date: Sat, 03 Dec 2022 08:26:12 GMT
+Set-Cookie: DEVICE_SESSIONID=e9914d41-1ea2-4e93-9f30-c297db80116b; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:40:19 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:26:12 GMT; path=/
+Set-Cookie: _abck=0CFEE804AD6D65C88F676C358D9267EB~-1~YAAQPAvorJHSkc+EAQAASs8X1wiIAxSNiPuNOjg2XYL2jzzQ1t+o1eQ52t88am28LPlKPy0+hIUJIHWNkvypD+1LaNfQm+59SrN4R0xFvJyzECxvBkiSmtvx799xoUMEwC157vXddNi88W1nytL4Ae0sCkHtPmJXpiEKuJsX5Ul1w5nIti63SP8cIfRh847TNbS61t/hepP0HfD4t8lI/au6ndNSqrK8UjNiW+k8HKC2JaPjFyWlvacyyvklLyz2P+ruFKh4L0l+uVFXiHRhYgmpHyH7N48hTf7/iyeAQL56EIxkyE29u4Sd4SecDCa5qhGUQtcvbM6sKGpj/YfGd+dNCoZvGWWTo8PU2E1xBq37qYiP3Iuvkm7ecDIOl5s=~-1~-1~1670059480; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:26:12 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=3C85608ECA8CC76A916053D5040B0252~000000000000000000000000000000~YAAQPAvorJLSkc+EAQAASs8X1xFHLQBLHc/fP0JHwNBl8OShf+OmIh5AMGrXJfh5j7f6Lkgt9zQiUEJPv9l96uhuSJpA/1WYE6ayrTXmTAJQnUgV68GrdBXZrV7TrPgNWlrJupwAs1AKA/i463Ga2sigC7g6/XnuxUfqbguaNL/e0IeSz9l+DODJu1tSMIT7BZCV6rC+N7DSY95KCP/QXEwu7WAs3tWdFIWJRB++/Md0mS1XrsNdHOgKusJBUAqAObaROtZGliHgEzmf0T8JMRBlGESZTqc1hKtzu1B4vS6JM7m4uf3d4qAUz+LOE/3mjVIwcmjD55RIISFc7nCZ511G5RM6Mncayz3t8i8lJ0u71JjtY+x98GoNWPiLSr0=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:26:12 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=D4F30425F78D6496B339FBF31DC5F4D0~YAAQPAvorJPSkc+EAQAASs8X1xFx/TwHIAZ5CzszDtMKODzNIUfZSj4e3RFTg1qVgZgEldktJP8iaMjvGUAfFVw+njXYB4U8mw6Vs+VMfaYjlNukdXRGtOZ6COZfJB7c5m3wpekRzo/Y3KQYYqb4AnCcsTsLBqvgM+dPRnJQ9EnYmYzfxPc7cNBCPOjhf5nKhE7+jRhI8jnIOTQLJwZtGLVAquJa5V/ew9scwjvslsjHa3WX6qlDplXzBcBnoSQ10QpHSAR2edbVJLeaMEixSEXjSByMDZt5vVRFp9pttiNWn49Pi/LX2rRDb/n3Jj2lIGtYMMb+LgPCfah9qRkRQ7MmD8S97FzBiNXHsUpYFxwsPGzvkbskvw==~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:26:12 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=9DBCC61B53BF8BE85EB240FB17DD8D35~YAAQPAvorJTSkc+EAQAASs8X1xH74UDOMynliu89YGec0qS4ca5Jkh+tvpJT/YZsKeLsvlAA1A+81Bmlj6rYWQLzB7IZa4nk1fKstAZRKgD4sK0bLBGWDGiOKYyx7eZuH0Ed/N0dSY+8nsLZlaGbk7J3qU/HOaHjCn7JFuvekjVk52YfS+bAysgN170a9C/xaE4pLDRwHon4XEPT7OpO/bOmL2LTSdSj/z3dW2SmYZP9yUdR+DWcNeOcD6zYCQ2LGPYvF6iZK/zYeuW3S+HOXnFV7RnZkgAb+i8XHn1xMzgrexmrWp4=~3621443~3621953; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:26:12 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

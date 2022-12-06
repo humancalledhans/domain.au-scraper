@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "pb7m75uhua902u"
+Server-Timing: getAuthToken; dur=0.050754; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=18.043204; desc="Fetching feature flags"
+Server-Timing: listingsApiClient; dur=3.480085; desc="FETCH: Listing API"
+Server-Timing: listingSuppressionApiClient; dur=3.435923; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=3.418112; desc="FETCH: Similar Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.22558099999999998; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=12.263294; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=12.228674; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=12.209805; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=12.182983; desc="FETCH: Agency API"
+Server-Timing: listingsNonCritical; dur=13.157853; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=13.14212; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=16.891002999999998; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.05329; desc="Fetching location profile data"
+Server-Timing: total; dur=158.552169; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:43:14 GMT
+Date: Sat, 03 Dec 2022 08:43:14 GMT
+Set-Cookie: DEVICE_SESSIONID=9c913032-1a3b-4b3f-b4e4-c5bf37fee484; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:57:21 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:43:14 GMT; path=/
+Set-Cookie: _abck=41DE22B1662A930184C460AB709D2B50~-1~YAAQPAvorD8ak8+EAQAA6mYn1wi3kXV8XCgtM48Qlv7AWLvwjQUh7w48kgrmYLabnT6AU7rEY9CV1ujTD/KcZciu0ErwxnwF/30kQDeqlkt7K7q7MW/88kozJ47zLvitTSiK94zNEItTbbtiIU4mHfMpu2WZGsvukIrND9BAgDwy9Qt3z5clT65j+yORZ4/uwAzVLtyjhBvCe2HHsLvnzr2Uy6gMarvq+/px3JQ/N/NEb0RjFRXA/WSmyKkmBs2FoS+Kt8QGdV6oyw3jkswrwiLg5sY2+W8XWXpkJg+Wl3x/2rgOlu/OVM3g+ltxMeGB/OurlLk85YI4YgCcavwFAkIS0tW45AGqBodjeSkRzoc7V0G8TLMuCPHkAlmowqI=~-1~-1~1670060583; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:43:14 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=AF23586EBA10C1D7DD1A73EB594A40EB~000000000000000000000000000000~YAAQPAvorEAak8+EAQAA6mYn1xH+c0ZA5ps5aL1+hnhYnulZFdON+wABjC3TN/a2bynNjKBO0MLCEA9wCW9pj9llf6rIZuASJgBJRd5ZUbVX9IJkJxXW+zvoIf70QE8Nq3ePBKEdMTqynvPP+xKOCskHmmuEZJOectYRwVvczs7N85B7bCv24esFt1CjrqVf6+1xG/bld50ucnseIRiehKsyBbIdcRFZpG4HKjeijnaZKgiSB7mYsNqASkClLa2HXWBmMaCsBli2LLCoAAu/rET6ujfG4b9gGD3F4hjAVT20qVg3Lvsk+bTcba414IFQh54e9+ygXATsw4K98Sh33BNnmLKEYm/e4ZTPTSPjTdL7LyRLqmli1Vmtw8GeugA=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:43:14 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=37EB6A532E3F20C5347B4FF3177997AA~YAAQPAvorEEak8+EAQAA6mYn1xFY629HgTnglK2XL7lKm0w97eVVTX1QUvxR+sc1USLtFd3h2p2afVSURIFsABZAwfrX4DtyOmSGFhrkg4Hb6Woga6AZBU2233QHTP/h9my4aw0Dp/dKQmAwpAD8ZhShcerECzcU8TygMQZhOvvGxzc9ABl1Lslmu5x8DNmeNlTb5PSY2H+b0UhayTPAXiuPtf1RoA4Kn3jqPsG15RItrbJj0umzzb6xkgXdhtSKFVYZ9dFOPyzFjFAeHkrbfM0xWjJ4xpKxCwbtq41eHgRirVjRt8ktNJ37Pk1zAsExddRiJTGOIUUVkL1lDhs3VLipd24Gy5fx03OmdXHBOz4m52V1CBTMPwA+R05Bgi4jYOOfjKI=~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:43:14 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=DC38F5029D3AA6E08129EA85D8352ABF~YAAQPAvorEIak8+EAQAA6mYn1xFQn/CDlAVKiDGlgdwvToN7ZZsB6OdOLSZbtEjvRdLZFgHVn88QiqG8KkvzcJ2mKPTJag2RicUciI1p1zQujVLY9IToCULsga0r6BFifYnoH279vmarZkQ8b1hZP1rqvloh7IvEmE40vOD1R1+dlBiKtT/i9v01e/wtYNBmAFMysbU+tk0Y+xyGpEgy/XuTyiVVpkCfIkCglApfnNnbYSn1OpgYb3vluOsNRLq/ZW0vGAGfH+uU/MRLfGPNWi7yr/oWpCJUx+AEl6h7w+heZH4vfO4=~4343347~3290949; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:43:14 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

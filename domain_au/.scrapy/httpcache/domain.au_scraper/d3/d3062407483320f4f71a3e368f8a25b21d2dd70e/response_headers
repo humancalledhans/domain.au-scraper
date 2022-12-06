@@ -1,0 +1,31 @@
+Content-Length: 25
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: /rent/mays-hill-nsw-2145/
+Server-Timing: getAuthToken; dur=0.05416; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=7.284399; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.8605909999999999; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=1.844781; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=12.131; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.26720499999999997; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=16.231051; desc="FETCH: School API nearbyExtended"
+Server-Timing: sa1ApiClient; dur=17.270816; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=22.298036999999997; desc="FETCH: Agency API"
+Server-Timing: additionalDataClient; dur=23.070552; desc="FETCH: Additional data"
+Server-Timing: agencyApiClient-list; dur=42.512364999999996; desc="FETCH: Agent List API"
+Server-Timing: listingsNonCritical; dur=44.479265999999996; desc="FETCH: Listing By ID API"
+Server-Timing: listingAggregatorTime; dur=56.929384999999996; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.058452; desc="Fetching location profile data"
+Server-Timing: total; dur=77.72967799999999; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:38:47 GMT
+Date: Sat, 03 Dec 2022 08:38:47 GMT
+Set-Cookie: DEVICE_SESSIONID=7b0b2704-7793-4417-a2b9-937bbbc35194; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:52:54 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:38:47 GMT; path=/
+Set-Cookie: _abck=DF840F740FC707CF258552320B9FE61B~-1~YAAQPAvorF3Iks+EAQAAnlMj1wiVzNdlRDm24qKkwwOJFU/wdNq2wM9IXteyowqAMvvdH9CQnMhBz3HJX8gUA27gRRyqCWcWJ5Y5vfTw+xzC3HV1g0wFSf5gyfnlcK4M7uq8PhXktIhR/yhLg9FwtGMqViO3HZ2/hUGJ37bBK4GeYIqpypT9wq0ETzM6oRObdzZbKE7O+nU61EAjPEzLnh5w9lAVwCTbtmmSN/xGr0NsrpX1RZ5CVUU7yHAe4oEUHd4w6Smc6kU6ajvbxOOHlBdGhxgtHIT1sxfl57McH0dmnPb9WpC8u/hg6VS/BxJC5SjtLbkWokpYwP9i6jqK3757cPxUuoX59cTzG9Trye8C8Iu2qKPtgVkThQZknCs=~-1~-1~1670060267; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:38:47 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=96BB205C031EA362DEC0AF9FE0E419EA~YAAQPAvorF7Iks+EAQAAnlMj1xEmXioncFQmtIDnI+Fl0X40sGKRQrI2JLKMXushoqNTg4tXjzrCU+O4wX0CKXs24lpWq9GD21YsBjZgkpMuMqXarRw/Be3nWfKHhcM5mmF362wi6uhBCfkJ/YqKWIY3FxqkXEKymy9jbN570EFC+FV5vbFgd0R6TsHrnaNn8YxK2sS8dbJxmGpvu1qgJg1y+5zuxb8Z7Emg4d5CsLPju0/Wb0upJbqSfcCXbbguu6yCJsa62g9sImXWcz3XWibNOC12mduIPYXFNMUf7oNEjT27weE=~4534322~3556403; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:38:47 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

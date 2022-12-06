@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "riel25r8lt941z"
+Server-Timing: getAuthToken; dur=0.070947; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=4.892176; desc="Fetching feature flags"
+Server-Timing: similarListingApiClient; dur=5.447223999999999; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=16.608252; desc="FETCH: Listing API"
+Server-Timing: listingSuppressionApiClient; dur=26.311322999999998; desc="FETCH: Suppression API"
+Server-Timing: allhomesCanonicalListings; dur=0.289782; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=17.838362; desc="FETCH: School API nearbyExtended"
+Server-Timing: sa1ApiClient; dur=18.768916; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=18.709553; desc="FETCH: Agency API"
+Server-Timing: additionalDataClient; dur=26.608103999999997; desc="FETCH: Additional data"
+Server-Timing: agencyApiClient-list; dur=50.024888; desc="FETCH: Agent List API"
+Server-Timing: listingsNonCritical; dur=52.202121; desc="FETCH: Listing By ID API"
+Server-Timing: listingAggregatorTime; dur=78.9011; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.051992; desc="Fetching location profile data"
+Server-Timing: total; dur=275.37679199999997; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:27:05 GMT
+Date: Sat, 03 Dec 2022 08:27:05 GMT
+Set-Cookie: DEVICE_SESSIONID=a0554bea-054c-4c19-b8e5-5dea4c2aec36; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:41:12 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:27:05 GMT; path=/
+Set-Cookie: _abck=3E83A4B062CD49765A7CDE26715A8683~-1~YAAQPAvorH3ckc+EAQAAM54Y1wiUkIjv/YUtpFKgSyN7cemw+AGW0YxFMcdhJO9wu1IN6m3HnyVtAVZYX3dSvWVRTnLHRmut+bBKq7uYGp4fptx47A8GDW8c5Uhian6aG7Ku/jmVSW6GySV9AIyGPeSKdkfPixN/We6xTy0ch9+Nhuo4GTnw3ZgoA0WMWrRHlHYBZsOlW+McxZLIiFHRdQgm6/3XrNngzMZNbVysa2VmBOvztS9E991XdRQTGCfCGaS0YDmWJAYLs5dcM2Ny/aBMjKoPnR8kvGgkVN98+KB4TIr8uWpIW1eRKU0PEQ5zB6F0UpgULQbswDS5so2zaENlX1UvJXSlxQ7kTMGBDc2gzjwoIZL+70r00isQE+M=~-1~-1~1670059537; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:27:05 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=E69210A8666D4B401D14F99753C36B4A~000000000000000000000000000000~YAAQPAvorH7ckc+EAQAAM54Y1xGTGqSMz3z+etkULdFL1K5YYV09YqdvtZroUewKLeSI1RPiEvW1kaA27SjTf+tdPlt9BmWsHqBVtTvN3PshmfupX9iy0flEcLcGALi0q3msI5CTj+4qHilW1lIYzmvrx51I+zhxeDfGZO3WUJSRS1HpWiNaBAII6iblSjO6goZYI2vBneBGN3TM+7c1UuCp+cip0TGB4r31OpTpMZvQz509lNcgJU+3Cnn7gi4F59A5yLi2Ecae1b2nf3+HT1T5dROIvsWnQ1fYpFU2xHDkwwMONdYWOdZhn212zUC8kYmYiLlNeJ17vGWwqg+tTiJzvPGbra4UhEqiaKJpJatJcFxZu9eSNnHDqnLtumI=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:27:05 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=C671376E25597A9DD01FA4195C68B3F2~YAAQPAvorH/ckc+EAQAAM54Y1xGQB2BgtUG9lC7RHLz+N/HKqyNtW2w4bdlrMBzb8zw+3PMFIGiOxtp/kOoHo24pbilzFxoRi4GbKd2S+nVUWUL6kIJKmNkxTELN6pXb+Ujtp3FT+RseAT7uH0gOeAVIterS1HDLmjvFg3Zo1ba1gjaakjbN/ATmt+o/L9BoBopwlaYrv2GWez1oUKegLmGrbUED59FLdbXiYhqp7q3cF5VC2jpI+hjzGhPX9kfEERBYBNM+SnPWU1cto9dfpOpJJ+fW4jr0GAN1z+SpQ/5xWOccE4ZhkAwK0LPA6Gs9PqQ8Wdyzjl35AXaDnxvFRZrdIZTLKJCscw7yblnBCkfpb98lXUuZ6LwU6pHePQ==~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:27:05 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=45364FF012DD575ACAAD671FFBF56E85~YAAQPAvorIDckc+EAQAAM54Y1xHmI5ESgraSKqKFOtzQ/v+tRjka9wxKArtJPrlc7YlulGV1zaxX3I/Dt6KP9mahcyfomQJtXpiOkiRbxNT4AKaGQYIGLzaVvxNHM0U0soOjNXvWykPjnwobVEv04uXl2Rgmk4kgxwzQLksGbHlPanwEN82HoM93DfHGLgvODvKn4kGWhDoojaW3FRgKXzUpIFjm/ipx8CaTTndBTOAzpZs6ouXyYu4u8QawpzKB+mvhr1HJnUWIYdJ4FT5DAKIzoEm6zc63+CN7+uapiN9VGienSNI=~3291441~3159353; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:27:05 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

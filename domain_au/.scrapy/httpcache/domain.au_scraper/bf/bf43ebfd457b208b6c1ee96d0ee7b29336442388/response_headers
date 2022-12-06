@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "odozzqt3yq8jgj"
+Server-Timing: getAuthToken; dur=0.04733; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=5.2505869999999994; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=2.3044249999999997; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=2.306104; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=31.44034; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.296795; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=19.315988; desc="FETCH: School API nearbyExtended"
+Server-Timing: sa1ApiClient; dur=20.442323; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=21.909119999999998; desc="FETCH: Agency API"
+Server-Timing: listingsNonCritical; dur=22.890342999999998; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=22.839147; desc="FETCH: Additional data"
+Server-Timing: agencyApiClient-list; dur=36.402184999999996; desc="FETCH: Agent List API"
+Server-Timing: listingAggregatorTime; dur=68.04936599999999; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.042893; desc="Fetching location profile data"
+Server-Timing: total; dur=179.471184; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:42:19 GMT
+Date: Sat, 03 Dec 2022 08:42:19 GMT
+Set-Cookie: DEVICE_SESSIONID=e425be2a-0d8a-4165-93c7-a7252085898e; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:56:25 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:42:19 GMT; path=/
+Set-Cookie: _abck=DF17111946C980EC082708BA18BA37B2~-1~YAAQPAvorOULk8+EAQAADJEm1wiFSeTlg/JyNWaC3Zd3FwTkKbnkInPzL52llCScLB766TkgXQFaSOZ2k86Z081j8/AcuF8fAZ+S13zngCmN6ExlCvwH0951kwFISD+hgM3smiXnC/I+a1UMHFZ0I1to4MPGeRtFYkc7s7FdywkXRWS4J9soHgeLHZZvi4AAzRRj6/Ty52ET9O5Lp2DjenocWmgfNKshN5K4sEf0Fjd6l0O+lVv6KGXHrphuVWCUfQVJj4GVW460swlR5D6PYrE4AFSLVgiUIQ0HPE9oGUPNBEntYlul7TM2JRvpQu//xLYS9U413l6RAVL7tdwY4ItwkZypb7RFpx2l1zQjpXIiaVns2XPI4XZlWBcFFJA=~-1~-1~1670060445; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:42:19 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=8E1302AC61210FD6555EE11457C69779~000000000000000000000000000000~YAAQPAvorOYLk8+EAQAADJEm1xGabidxJzUlT96J65bDFP3RDoBxVncva8ozSOwa7L5/QXoExUEAcNlbARpRVjQrcuUv1P/rym79q4cqGRmqS8AQHGHtjYelcw47ImlzIgp2JpNS4PwfxDB0rxwM0JsrP2oVD2Ys5J1pBWySV6FA0i1zSW/XjvoThikq0k3/vOpOM5txO3MnQzNDc3BB7/asQ3czfX9iSBHnOXjAe28xTcCmqHjcfD3TMtQwmI1aw8hK+qs9VZCnm0WJKHjDGTAsPmOy0YDHJM+OtWJ07MpbdfXqEMIV5XtrRT1AdBmi+g9hhSaUhknlK6/deViuphuB1eKesfhlhd9wY72a57/qzuBmsZmQudXd5NjlXas=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:42:18 GMT; Max-Age=7199; HttpOnly
+Set-Cookie: bm_mi=9C996499172C8099E99AAEE0D4E76CC9~YAAQPAvorOcLk8+EAQAADJEm1xEjS7z6vZc2nT8YmP8DeqjO4MWtQeCLiE7tPKohSWfjmw2NJFSeejblW6BYyE/rWGjfo6mUZ6wl0MEA1OHrZb0b95BUxphz7PFvtfibeTQhjfDGTQSjqoLBZIv85dBFF1/6raF5yJjxIJ+IfN3/ky6clHxN0OKFRlV1RQbvWKDSPPPKqRHiDJxwNt2a+eXyf7zpOJdDdpq6d8Kekivj44QfuIJGgh3IY8Nvrcor9F8T7Fdr0GBkRN5MAh5f4Vn646x6JAr4vlBFWkeqCrhab/L13XY1p+UCr0Tae6bNIwUNSbdtClOvWXettz1+MU+qo8l4nA3mlg==~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:42:19 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=003A754519C4836E8D0647959A7D68B7~YAAQPAvorOgLk8+EAQAADJEm1xEjStm2++njjV4ZrgFYXLN+wJHDJm69TxJY1ALVn9B9iiwCNsenW4+4yrsRDQCuUq6mwUeiJYsHj86tpLa5dMloOnpfK9godzn+O4fW7fZU+T3GxoNyc24aCLli4tUB+l3bz3yt1DFF7BDSRdcjgRx+5Gcb9El4AjIvGybmqbIJaatuWVWOLaJDKIUNm2DShc0Sq0ePaf0Wq64V0cx/X3y2VEVoxYjEwQg1QSDBdTP37V5l4mgK5Wfuc/xq16B7XYOiw9yVXHtnKYmtVtQMVSj13+E=~3223606~3552836; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:42:18 GMT; Max-Age=14399
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

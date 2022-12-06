@@ -1,0 +1,32 @@
+Content-Length: 83
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/11-43-park-street-st-kilda-west-vic-3182
+Server-Timing: getAuthToken; dur=0.07775599999999999; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=6.23794; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=3.5651479999999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=3.6804599999999996; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=15.044407999999999; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.195275; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=10.878366999999999; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=10.844011; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=10.820209; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=10.799871999999999; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=10.788791; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=11.524925999999999; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=11.50903; desc="FETCH: Street API"
+Server-Timing: additionalDataClient; dur=12.057822; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=27.367162; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.05064; desc="Fetching location profile data"
+Server-Timing: total; dur=41.065348; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:38:25 GMT
+Date: Sat, 03 Dec 2022 08:38:25 GMT
+Set-Cookie: DEVICE_SESSIONID=12fc9598-670b-4077-b088-6b789a6cf74b; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:52:32 GMT
+Set-Cookie: _abck=96DC0B547C179F8FF68539143377E602~-1~YAAQhUA2F5kObLKEAQAAPf8i1whKzd3M4CIPwCchTAS9U2JxWPL8EexPs/U5xGsiHVoT8OAYuXo90QsshI+RaBoLEey+f1liZdTToGOXK8llhrCoAqHzNmxXohbzUqifMUtwGIoV4r5z1UXsQzc+dMpAPsmagoD1zzClJtJYGRXM/lqkSNOfKboH/oyJbNR8zE9HpxCSQMVn2UeKgLr4+p2QdPLiNCCty7OKNROFIfOpsm8/ASNuYh9eIfmOMS7r+7NWhmppUHRZ51wTv+6h2QimldJJ24HMO4otmetbB33MR85d/W8hrz6Bb+n/8U52J/w3wSxZsrky3H+ynsvn+vo74kQDDzXosjNWIMQl1r/hN+eaGy1mzyzj7X7DFSQ=~-1~-1~1670060210; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:38:25 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=0151B767277AAF38A893491B9A7C731A~YAAQhUA2F5oObLKEAQAAPf8i1xHBM8QS6pPPXoik8h7Tdam5+Vqupd3erznzUHivS9V2YDshJmo+evLNJqrzMaQZ9cPXf/7zywYfFNgMBtk3o3ksVxHOxV910g/lgEE9Jvp8gB+0Br6anJMuXT2hUPUuVNdHqhmTm932zfSCl6F78wfRGZEUHkbqXfyG4fgIgwPzPC65Y74WlQwoTE/lCuHucdPtVINeunI83/jK2OjR+0f8mgvzmzsFIuaUcFxO3RK07g5SB2QYkGDqP9JwQwobot5vB1/QGg2FkUB5D7xWBC7QaUU=~3421491~3490098; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:38:25 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

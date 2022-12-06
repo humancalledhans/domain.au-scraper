@@ -1,0 +1,33 @@
+Content-Length: 80
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/339a-albion-street-brunswick-vic-3056
+Server-Timing: getAuthToken; dur=0.049961; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=2.4013519999999997; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=1.775213; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=1.8637219999999999; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=12.211019; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.24323699999999998; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=9.739951999999999; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=9.706356; desc="FETCH: Building Profile API"
+Server-Timing: sa1ApiClient; dur=10.427190999999999; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=10.419177999999999; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=12.901489999999999; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=12.879617; desc="FETCH: Street API"
+Server-Timing: additionalDataClient; dur=13.211364999999999; desc="FETCH: Additional data"
+Server-Timing: agencyApiClient-list; dur=28.206846; desc="FETCH: Agent List API"
+Server-Timing: listingAggregatorTime; dur=40.630303999999995; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.04002; desc="Fetching location profile data"
+Server-Timing: total; dur=44.273168; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:37:53 GMT
+Date: Sat, 03 Dec 2022 08:37:53 GMT
+Set-Cookie: DEVICE_SESSIONID=aba02fc3-c274-496d-9a0d-7a709d449a83; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:52:00 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:37:53 GMT; path=/
+Set-Cookie: _abck=8D37780D57469828377706F10CC82984~-1~YAAQPAvorCS1ks+EAQAA/oEi1wjNi2oCbcmv7KvtoxCC2+rb7oZ9FWcc3bBmbBnJ0G5udEww7e/8keEYBoNWnvd7yIYoXJ6yr/g0rrwmyu/P8l6GdPZ1G7pk3qRixCyatcCgvjYqigjrdsb89pFymUi7vaeWFVJZ1tuyaXfrkRXohwLfse/ebKTJVA4CC/TxThZsnipp5U7KAHi6SqMB1v8W7vU5eSC5mICatilKAtnDurIc7seDY5LtBGvWNQFFtNS8HllFuhxRbie1OsB6kVM98KOQBhiyzl0bQm6IiMzoVEZvRDWiD4/uCbmcSoIej19HLBR+eDy5eQ/ZBo6u+uETHOR9P3tsEwDuIFj1XfEGxv7fvJwbPFPJhm8PCo8=~-1~-1~1670060191; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:37:53 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=11F206309D797CE24776B5DC96F6A3D3~YAAQPAvorCW1ks+EAQAA/4Ei1xF/X7eSy2yXDmmWCJFs5eoT17U3wis7ufJnD4mbtMw+/MJtp51RHjSDPloNvBqtJ5BxmtM9pxN400CBY37yX/Gd7SgKDyiSnrushC+jV4TW19QSQK9PG+9Wm5tkXm9u0oabPODjh6oA7Af3gghOTxPKiA0tB/51bSiL8tjL50F/CjgPpVYuxKudHS/ayhPjOcWSkpTlN+ENFIQKo8m2uqTRyJo1og3PH/f+7T/+W/bWTx9toIMQQTdlg02cVdKKJEOtqLQIJGw4bPaIdYSJSDAM+H0=~4473409~3553077; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:37:53 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

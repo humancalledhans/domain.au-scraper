@@ -1,0 +1,32 @@
+Content-Length: 77
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/5-sicklemore-road-parmelia-wa-6167
+Server-Timing: getAuthToken; dur=0.07291299999999999; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=6.480147; desc="Fetching feature flags"
+Server-Timing: listingsApiClient; dur=4.664238; desc="FETCH: Listing API"
+Server-Timing: listingSuppressionApiClient; dur=4.628543; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=4.607927; desc="FETCH: Similar Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.343319; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=14.584278; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=14.538876; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=14.504764999999999; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=14.475626; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=14.457803; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=15.300965; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=15.28097; desc="FETCH: Street API"
+Server-Timing: additionalDataClient; dur=15.706316999999999; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=20.762563; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.059921999999999996; desc="Fetching location profile data"
+Server-Timing: total; dur=37.829910999999996; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 04:00:54 GMT
+Date: Sat, 03 Dec 2022 04:00:54 GMT
+Set-Cookie: DEVICE_SESSIONID=b956fe37-8c3a-41dd-a23d-c714c92921bd; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 07:15:01 GMT
+Set-Cookie: _abck=1B1C01ACAE54BF37210C44C6026D054C~-1~YAAQk0A2F2w/vrKEAQAAW+ok1gh2aJsYa4ZP0ZTyl5eZwXWLkJMIDVFt2+ezddjxiRUk/gJd3mosm+jxyiYlU0i2s8R2yg3s7YHvDZemDFBw3azPySE6DiqJBzt3oW8BqBNbLXkIIY3V31znVJLvCqp/tgTcFGlKU4ZFb58azOwIjF8nGXME1xS1hUBUNLhtkW4MFEcEpTab8f7zz+FsFnEg+RE39j0MDK+NshYue63GxCWLjhCHe0esrQ/X3Xg818pNKYGq1Q/zfXbAiYU6cJu/FgIcvEedJKinLWToKm43Y7iGhobbxQu4NOjO6xqF3HpQ1O5iWfsg1thx14lpBHRH7BMfOj3nbLveeQYX7GCFy4N2G2kc+Td2ZwEogc4=~-1~-1~1670043537; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 04:00:54 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=FDFC9FED81D43B87DDF820F236F81808~YAAQk0A2F20/vrKEAQAAW+ok1hHGJ8RJ365YBgUzRDUcELrSdc9FqHwVIJIFm0Wu8ywdi7F+zMFYlSr1B5jc650GM0BGAKDRhHi6RenPkXhgANbwu61RqzaGZrQZFTN4+wAXUkWa2UZvru7HUA9/7AndY6oavmwnq9andur0gDJkx6zgWTrQ6viYagNekxHs1TkCOefn309HWsO8B/Ag3RBfKWZc8wfr5dpiRQs7EAb8cLIVI0YdxBs5bTCp26AHDedkdbWBMQ8nO7DhE+WWVk94TfNKmvOngSWFzoRPPv74udPUF80=~4276533~3356483; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:00:54 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

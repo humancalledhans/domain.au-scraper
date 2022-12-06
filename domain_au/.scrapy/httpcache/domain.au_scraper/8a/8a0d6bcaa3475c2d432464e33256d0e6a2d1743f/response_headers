@@ -1,0 +1,35 @@
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept, Accept-Encoding
+Etag: "ynnqmrvjgc893h"
+Server-Timing: getAuthToken; dur=0.056859; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=7.710452; desc="Fetching feature flags"
+Server-Timing: listingsApiClient; dur=216.347861; desc="FETCH: Listing API"
+Server-Timing: listingSuppressionApiClient; dur=216.33506699999998; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=216.32119999999998; desc="FETCH: Similar Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.871366; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=48.494903; desc="FETCH: School API nearbyExtended"
+Server-Timing: agencyApiClient-list; dur=48.437110999999994; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=48.411725; desc="FETCH: SA1 API"
+Server-Timing: agencyApiClient; dur=48.363886; desc="FETCH: Agency API"
+Server-Timing: SearchNonCritical-listing; dur=48.583856; desc="POST: Similar Listings By Search API"
+Server-Timing: additionalDataClient; dur=49.512128; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=266.19787199999996; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.049773; desc="Fetching location profile data"
+Server-Timing: total; dur=398.80706599999996; desc="Total Response Time"
+X-Akamai-Transformed: 9 - 0 pmb=mTOE,3
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:32:13 GMT
+Date: Sat, 03 Dec 2022 08:32:13 GMT
+Set-Cookie: DEVICE_SESSIONID=2a9a4520-3ba2-4692-bf14-af961f8f9434; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:46:20 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:32:13 GMT; path=/
+Set-Cookie: _abck=86F2729363685073542B45E41D59A5F6~-1~YAAQPAvorCpIks+EAQAAhlId1wjaY8yayntD942lM3dvHrEFaevpqXhGo67ANNpcYW7CqkPmCZuv8JHyvpa/8l+FUWgd2GddjnRM6UP6D7t5XbJgtKUaTb0JtrL9Izr/wBmiVk7GOZbPbQ0rEiQaUBhAjdm1krZZiEoXw2fUz8ukGdW3M+EeX9EoejcpxlsOsFJowEPAOUEprnF9Ff3TxUiwaT68v3dWNFaCpncu/D8SXVFTmwXAyIFKWvssXOWScn/fOaROvB9dEjf/ssv43j1T6mrarByFHq3hRdZDPFnojcb5RmAGmmMuxT6jOOETSFSFFLjT3t2aEsHyb9kdBxhlH6XpOCgbNqAkHC4fei1iSkK/qNCyJIYWQavCc2Q=~-1~-1~1670059818; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:32:13 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=2FF43CB4F4ED5A91E4DE243E99243220~000000000000000000000000000000~YAAQPAvorCtIks+EAQAAhlId1xEHxdDc1AFYR/2vOADEgsnXT2PRKb7DuLhZV+IuswL/vp0san6Z+h1hoKjK2gb3ycP3UjDsnngxuXFOXIp7kbHlWr2+P3VZJ1y7R53SsKEPpnmZu3p5O52VGBAL17cyzMZcYXojxZ/VyZ+T8hWDIJbtE+wowlWjt1sqAA7SqnoGMCP0uIRqq9Ics6eLhrqDLsjk/ScF30SmjCfuZ+3/P9NefzQbT2aseYB2s+X0yg39qjIoWN8gPxPWQoEE0yRBok7YvxC2l6N/ztS+aMuJ3rB4ql9LeYl7Aojv+7HnZxOMbsicuTXkxicTESipNf3mHC5cZIAGfSYHj/WJ/yCF+pN/jHy+/PE5bK4omUM=; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 10:32:13 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=6A48311BC532D561EDD22C9D09AA2108~YAAQPAvorCxIks+EAQAAhlId1xG7jnPFY4cizDeOwxyNDICnCvRHhE+KVLPfg+Ng3qGG/rzDcUPyjinlteej23NTcHnj9r+USyM5PkM5FUBtKqOocpKVRf2oJ+bUdAIUK+Q/NK/0y5eQS8HVokLCHO6cHvyKrDlfR5RkKcbO3TMOhCVSytLBgtz6ZLTuFIKhYgkTMCr2pWOMAozHysnIfHQ1OKd5qxbwKE29NOlwkP792sOobGFPbgYrfy4c22bKplUNIYYqWLeQGEpNDIGI1bbC+flSIl72bCIV10XA9KW4rymU/X2EVdsGwb1SEKlfQlKD/IgbEiQ9fAkfk1fuxg5lZKK0KWI5hb2PLX/gF7QPLJWd5zYs4/jz/sMoUrO9~1; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 08:32:13 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=E2D8082EBE4188FC0A4729F6A9685D84~YAAQPAvorC1Iks+EAQAAhlId1xHCtJKMBjno9F/RKbTeTJsMksUEXCV1dzRcsr18akYEdwNt7UiyljHKCUknk6IwSVv4tBv7zBFw03Zm1P6yIOFnrcLxdFFbRfqUUSEGGkkOu7TxcDjU10XUGlt+Ra726/Cvba7JOwsWStTvxjQg/H5uL7XjA/G1rD7gdbs4qIZ8SExVwx2OkdkWjVH2WbB1QGNKW/BlCT3oQ3D/DgQPRGrI0oZGR3zqTocSDeZhMwSE3Cign3vg/Nz2yO0evsnuHx1uM+9wX1Akj+14GXZuJ6AH9yI=~4536372~3421491; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:32:13 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

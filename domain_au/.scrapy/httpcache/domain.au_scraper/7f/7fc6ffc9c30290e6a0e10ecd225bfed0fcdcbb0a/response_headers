@@ -1,0 +1,33 @@
+Content-Length: 81
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/407-16-aspinall-street-nundah-qld-4012
+Server-Timing: getAuthToken; dur=0.06751; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.7761769999999997; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=9.325755; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=9.307655; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=19.187585; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.709137; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=16.581629; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=16.534969; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=16.499411; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=16.467648; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=16.448663; desc="FETCH: Property Profile API"
+Server-Timing: streetApiClient; dur=17.53839; desc="FETCH: Street API"
+Server-Timing: listingsNonCritical; dur=17.523749; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=18.353541; desc="FETCH: Additional data"
+Server-Timing: agencyApiClient; dur=44.296054; desc="FETCH: Agency API"
+Server-Timing: listingAggregatorTime; dur=63.854811; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.05449; desc="Fetching location profile data"
+Server-Timing: total; dur=87.908199; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:45:26 GMT
+Date: Sat, 03 Dec 2022 08:45:26 GMT
+Set-Cookie: DEVICE_SESSIONID=2ab2cbc4-b68d-4beb-8180-d26e3cca1d2e; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:59:33 GMT
+Set-Cookie: _abck=5ED2DCD60CF85556E924BBF419D7C634~-1~YAAQk0A2F5S9wrKEAQAAx2kp1wgCrql6f6gq/TAr4ZokW9RDtUbY5QOH/vAB33K3w5t7SsO9Q8KkOXDyD5RBiijyZH7KqhekmpbhRv+1jwx6ABby2Y9XGrqPub7cnwLTUXRhin8ZbD/dVLKbn4sOItFh/KJDBOnZ90xNiNo0u/3udX+Gx+TxhTBoVklUb4nFbEvlAqtSifeMEUwFuj0uI+6w5HBMhFo9sLoBTowgXh50mWM1xBny9tXYB5qegQ/paJOcfJBaJi6BdDfX+A/qlavqg6xP1x80CdvgsCzyDM5/V0SNpg8Xc1wZTb2R+ljiSljZReBJx5HBCauC8afVTESevThOwnPTWvCPE9XzghIfHURsOenm9NW0P7q3XV8=~-1~-1~1670060691; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:45:26 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=3C41B1563FB62CA2198CCEE71EA647D0~YAAQk0A2F5W9wrKEAQAAx2kp1xFFyCO7cwmsAwBTmgSRrMGM0wg9TUIgT69OoVORtz+UQ0V5seoffTTKh8XAZBRe9+2GRL783vXgtXbJA4mtuwt2zBfIQ5IESFZQifEgz5NArqp/S/G0D9dh/70ahGgAZdHyUJJeG48ZgZOuK1y8qrxLqwAEh23KuKAWZCF/q8mkUmp6/9PCrFV1VXYR47+UIbeToFzn4FR5xcJ0wKUGXkKyGnufQRMNViYoCn0DLTwm6hb8/4lxjPIi0+u8Sa8YR0/BmdggMgpJbsKU/HFuti5Ksks=~4605497~4405313; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:45:26 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

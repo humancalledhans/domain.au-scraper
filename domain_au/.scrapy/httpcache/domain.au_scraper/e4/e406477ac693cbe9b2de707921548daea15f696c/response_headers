@@ -1,0 +1,34 @@
+Content-Length: 80
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/1602-82-hay-street-haymarket-nsw-2000
+Server-Timing: getAuthToken; dur=0.056746; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=5.565982; desc="Fetching feature flags"
+Server-Timing: listingSuppressionApiClient; dur=4.52609; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=4.517163; desc="FETCH: Similar Listing API"
+Server-Timing: listingsApiClient; dur=11.308698999999999; desc="FETCH: Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.370092; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=14.729377; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=14.679390999999999; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=14.646199999999999; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=14.611937999999999; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=14.589903999999999; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=17.247336999999998; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=17.217123; desc="FETCH: Street API"
+Server-Timing: listingsNonCritical; dur=17.197257999999998; desc="FETCH: Listing By ID API"
+Server-Timing: additionalDataClient; dur=17.644711; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=29.351495; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.054641999999999996; desc="Fetching location profile data"
+Server-Timing: total; dur=43.055712; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 10:50:34 GMT
+Date: Sat, 03 Dec 2022 10:50:34 GMT
+Set-Cookie: DEVICE_SESSIONID=87689469-a91d-412c-9215-840b06448f5d; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 14:04:41 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 10:50:34 GMT; path=/
+Set-Cookie: _abck=6A02A90B1B7F1B16772EF98F2E3F9F08~-1~YAAQPAvorCc4nM+EAQAAI/yb1wiAamFFN2PU6oReY2w2NB28KWRh8+RM/+0sfYzOcpeO8f3+DdfHxkJWalkM9OxxMrScjNB2O+u17deKKhYmplvX7TeHdap0lpwUKZKS9qxReex40kFwbDjLy/GGPzWqVnqn+pDJ45KLnVw8i96FGokFjJ5nt/DH58u2syu7ZCt1gSBSyxa3ezmkuTdH3ozEOr3UcZBr9sNsZKYz0IymHvZY9P+EFgu++ay+FvkGp+IfhuXVhzJl13MNbtBwAvJAOV6rF3F2JzTp8qMpgzwsuyDNo6yY/v5M1Cuuasi4gYGdostA1GQOC7VONyCYgI2cu4LHFovaQePmUZluiEuHz05fWycI/GWqhMIGr2g=~-1~-1~1670068141; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 10:50:34 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=3BED9D54C22E56DB71D2D9C8D650B899~YAAQPAvorCg4nM+EAQAAI/yb1xHWJKl6Rzc672ADqgVXQSNSy2rFuWzaJ0UIY5F9p3jH786qwvfiB9HUURPYu/6VyzZDvCwa1TJkFGD/I+AfFSu77PiYaJ6YiI3VriENpXxrIh0MzihWd/gg9qyVETfqoPJ2T5G2fp6HL6tSrkt9R2UDpMqE7bPUuqwfu6duIpMu203sJj1mz58nImlW2UtQvzj78GdJmtlhNLXhF/xEzxgqjOpj0eeh/pOTMQ72J3Hw7Siu8C+1433OGAqhJNa4/E9GntugvdOGIWO6zM4lSVwmnyM=~4535096~4473144; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 14:50:34 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

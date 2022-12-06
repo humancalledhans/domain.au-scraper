@@ -1,0 +1,33 @@
+Content-Length: 81
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Vary: Accept
+Location: https://www.domain.com.au/property-profile/15-margaret-street-canterbury-vic-3126
+Server-Timing: getAuthToken; dur=0.104389; desc="Fetching an auth token"
+Server-Timing: getFeatureFlags; dur=3.7706389999999996; desc="Fetching feature flags"
+Server-Timing: listingsApiClient; dur=12.568226; desc="FETCH: Listing API"
+Server-Timing: listingSuppressionApiClient; dur=19.824467; desc="FETCH: Suppression API"
+Server-Timing: similarListingApiClient; dur=20.554451999999998; desc="FETCH: Similar Listing API"
+Server-Timing: allhomesCanonicalListings; dur=0.43400299999999997; desc="FETCH: Allhomes canonical listings"
+Server-Timing: schoolApiClient_nearbyExtended; dur=9.238132; desc="FETCH: School API nearbyExtended"
+Server-Timing: buildingProfileApiClient; dur=9.206453999999999; desc="FETCH: Building Profile API"
+Server-Timing: agencyApiClient-list; dur=9.181339999999999; desc="FETCH: Agent List API"
+Server-Timing: sa1ApiClient; dur=9.164239; desc="FETCH: SA1 API"
+Server-Timing: propertyProfile; dur=14.101092; desc="FETCH: Property Profile API"
+Server-Timing: agencyApiClient; dur=21.221501999999997; desc="FETCH: Agency API"
+Server-Timing: streetApiClient; dur=21.212127; desc="FETCH: Street API"
+Server-Timing: additionalDataClient; dur=21.569988; desc="FETCH: Additional data"
+Server-Timing: listingAggregatorTime; dur=42.379295; desc="LISTING AGGREGATOR"
+Server-Timing: getLocationProfileData; dur=0.041195999999999997; desc="Fetching location profile data"
+Server-Timing: total; dur=47.644679; desc="Total Response Time"
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 03 Dec 2022 08:30:56 GMT
+Date: Sat, 03 Dec 2022 08:30:56 GMT
+Set-Cookie: DEVICE_SESSIONID=bee87464-4154-4f39-be46-10a506d3317e; Max-Age=2147483647; Path=/; Expires=Thu, 21 Dec 2090 11:45:03 GMT
+Set-Cookie: domain-dt=1; expires=Sat, 10-Dec-2022 08:30:56 GMT; path=/
+Set-Cookie: _abck=0FD6DF6A623C022C84F08DB0731649A9~-1~YAAQPAvorEkuks+EAQAAHyMc1wgY1baAtMISX6fLF3E6kkBB+R9iVxL6pA0OPR/Fq3BUiFvx6xuvARosrD3J4THdHBmx0Z+APeLK47P+KUxXoKp9jyl8Zv7/iRXyTdIJozINBZw4963xsAugOYYC8OxLdCpC2+GkfVrTihHfHNwF3EUuDp8SqNjGQaMxDbzJBkqSq0PF9ia3P2p7oliU8dLXIwWdrqi/tDVXenKSWObBrbWIjuMv+pc6OaYmsyJyRq+6HVVKepFGufa04IuRQqbhrAKLwE76ofzGtLcMQJXHuCiFY/Ce9buI8QiS67WzI/zhRhI05/F+G3JfFhQ9D6YevGCWjys4200ARawx+pGHoCrkAQeD8jvCiXm7EHU=~-1~-1~1670059850; Domain=.domain.com.au; Path=/; Expires=Sun, 03 Dec 2023 08:30:56 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=EC4FFF3C0F910A381676C507BEC17595~YAAQPAvorEouks+EAQAAHyMc1xGBSpKm7SYGHp2S8H/f+uMqB1/uJXr4BFty15M2Dehnb801jP10RG0TG4lR+Yj5qyyyenG1QVX5LDIHovqPw8t0EmaFHQoLjA78+qlLYzkfgStFsu+0x/lJifqk3vrp+16afn7cQAE2HbgzlvyeTdG/apsGY6QDnf6mNh9H47lr3WtpNusbGScR9Rh12HN+Z3UQwfAAO9/WFcbw75+v9zxPl+mYSbQJHhx29C5DVnVuACL9FpxjhBAb0mZ2nPAXiyhlZSiR8DtQmM9vyBGvYBf+f3Q=~3491128~3753538; Domain=.domain.com.au; Path=/; Expires=Sat, 03 Dec 2022 12:30:56 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
